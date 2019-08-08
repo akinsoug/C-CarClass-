@@ -1,6 +1,6 @@
 # C-CarClass-
-Write a complete C# app to simulate a game of Craps. To play the 
-/* game, a player rolls a pair of dice (2 die). After the dice come to 
+/*Write a complete C# app to simulate a game of Craps. To play the 
+* game, a player rolls a pair of dice (2 die). After the dice come to 
 * rest, the sum of the faces of the 2 die is calculated. If the 
 * sum is 7 or 11 on the first throw, the player wins and the game is 
 * over. If the sum is 2, 3, or 12 on the first throw, the player 
