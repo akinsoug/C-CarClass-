@@ -12,7 +12,7 @@ namespace CarMainDriver
         static void Main(string[] args)
         {
 
-            Console.WriteLine("\t\tName: Adjoavi Kinsougbo (Esther)\n");
+            Console.WriteLine("\t\tName: Esther\n");
             Console.WriteLine("\t\tWelcome to the Car Class Activity!");
 
             //instantiating a Car object.
